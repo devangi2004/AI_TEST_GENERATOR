@@ -146,7 +146,11 @@ npm start
 
 ## 📷 Screenshots
 
+Home Page
+<img width="1898" height="915" alt="Image" src="https://github.com/user-attachments/assets/ec432a45-d2b6-48e2-9196-ee9796dc9729" />
 
+Test Generator
+<img width="1897" height="917" alt="Image" src="https://github.com/user-attachments/assets/e6f4a1b7-fbd3-43dc-9fa2-1a8711a4526d" />
 
 ---
 
@@ -174,7 +178,7 @@ Contributions are welcome.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](MIT License).
 
 ---
 
